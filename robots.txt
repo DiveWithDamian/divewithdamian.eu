@@ -1,0 +1,4 @@
+User-agent: *
+Sitemap: https://divewithdamian.eu/sitemap.xml
+Disallow: /blog/archive/
+Disallow: /404.html
